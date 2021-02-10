@@ -1,0 +1,15 @@
+Images:
+/Users/cafen/Documents/NetBeansProjects/finalproject-aryaan-and-timmothy/Images
+Text:
+/Users/cafen/Documents/NetBeansProjects/finalproject-aryaan-and-timmothy/text.txt
+Twitter:
+YRDSB
+Location:
+Buffalo,US
+
+Tim details:
+
+
+
+/Users/aryaan/NetBeansProjects/finalproject-aryaan-and-timmothy/Images
+/Users/aryaan/NetBeansProjects/finalproject-aryaan-and-timmothy/text.txt
